@@ -1,0 +1,10 @@
+{
+  "name": "my-first-matrix-client",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "matrix-js-sdk": "^6.2.2"
+  }
+}
