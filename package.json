@@ -5,6 +5,6 @@
   "license": "MIT",
   "type": "module",
   "dependencies": {
-    "matrix-js-sdk": "^6.2.2"
+    "matrix-js-sdk": "^19.7.0"
   }
 }
